@@ -8,6 +8,10 @@ h3{
     font-weight: bolder;
     text-align: left;
 }
+h2{background-color: fuchsia;
+    font-weight: bolder;
+    text-align: left;
+}
 .firstDiv h3 {background-color: #ebe0d0;}
 
 
@@ -24,7 +28,8 @@ ul{
     border-radius: 10px;
     padding-left: 20;
     padding-right: 20;
-    background-color: grey 
+    background-color: hotpink
+    
  }
 
     /*Global*/
@@ -35,8 +40,8 @@ ul{
          }
 
 .container h3 {
-    background-color: #ebe0d0;
-    border-color: #ebe0d0;
+    background-color: white;
+    border-color: white;
     border-width: 10px;
     border-style: solid;
 }
