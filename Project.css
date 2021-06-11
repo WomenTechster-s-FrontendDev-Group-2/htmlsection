@@ -1,0 +1,36 @@
+/*Selected tag {
+    property : value
+}*/
+   
+.firstDiv h3 {background-color: fuchsia;}
+
+
+.secondDiv h3 {background-color: fuchsia;}
+
+ul{
+    margin: 0;
+    padding: 0;
+}
+
+
+.button_1{
+    height: 38px;
+    border-radius: 15px;
+    padding-left: 20;
+    padding-right: 20;
+    background-color: grey 
+ }
+
+    /*Global*/
+.container{
+        width: 80%;
+        margin: auto;
+        over-flow: hidden;
+         }
+
+.container h3 {
+    background-color: fuchsia;
+    border-color:fuchsia
+    border-width: 100px;
+    border-style: solid;
+}
