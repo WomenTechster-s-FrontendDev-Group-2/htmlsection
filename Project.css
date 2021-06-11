@@ -2,10 +2,16 @@
     property : value
 }*/
    
-.firstDiv h3 {background-color: fuchsia;}
+h3{
+    font-family: 'Poppins', sans-serif;
+    color: black; 
+    font-weight: bolder;
+    text-align: left;
+}
+.firstDiv h3 {background-color: #ebe0d0;}
 
 
-.secondDiv h3 {background-color: fuchsia;}
+.secondDiv h3 {background-color: #ebe0d0;}
 
 ul{
     margin: 0;
@@ -15,7 +21,7 @@ ul{
 
 .button_1{
     height: 38px;
-    border-radius: 15px;
+    border-radius: 10px;
     padding-left: 20;
     padding-right: 20;
     background-color: grey 
@@ -29,8 +35,8 @@ ul{
          }
 
 .container h3 {
-    background-color: fuchsia;
-    border-color:fuchsia
-    border-width: 100px;
+    background-color: #ebe0d0;
+    border-color: #ebe0d0;
+    border-width: 10px;
     border-style: solid;
 }
